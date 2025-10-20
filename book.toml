@@ -1,0 +1,5 @@
+[book]
+authors = ["Kitty Eclipse"]
+language = "en"
+src = "src"
+title = "Jetson Docs for Kitty Eclipse"
