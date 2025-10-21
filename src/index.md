@@ -8,7 +8,7 @@ This device is currently running [Jetpack 4.6.2](https://developer.nvidia.com/em
 
 ## Storage & Boot
 
-The Jetson Nano has two onboard ways to store data: the internal eMMC and a microSD card. Upon being powered on, the device will initially load the kernel stored on its internal storage. It'll then boot the system stored on the device it is set up to boot from. In our case, it'll load into the system stored on the microSD card using the kernel stored on the internal eMMC.
+The Jetson Nano has two onboard ways to store data: the internal eMMC and a microSD card. Upon being powered on, the device will initially load the kernel stored on its internal storage. It'll then boot the system stored on the device it is set up to boot from. In our case, it'll load into the system stored on the microSD card using the kernel stored on the internal eMMC. This may cause issues if the kernels on the internal eMMC and microSD card are different, so see [Booting the Latest Kernel](./workarounds/kernel.md) for how this issue was solved.
 
 ## Pinout
 
