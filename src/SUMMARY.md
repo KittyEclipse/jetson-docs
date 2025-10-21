@@ -1,5 +1,5 @@
 # Summary
 
 - [Overview](./index.md)
-- Workarounds
+- [Workarounds]()
 	- [Booting the Latest Kernel](./workarounds/kernel.md)
