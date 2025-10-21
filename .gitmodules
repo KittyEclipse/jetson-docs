@@ -1,0 +1,12 @@
+[submodule "include/ros2_cat_software_files"]
+	path = include/ros2_cat_software_files
+	url = https://github.com/KittyEclipse/ros2_cat_software_files/
+	branch = main
+[submodule "include/docker-jetson-experiments"]
+	path = include/docker-jetson-experiments
+	url = https://github.com/KittyEclipse/docker-jetson-experiments
+	branch = main
+[submodule "include/CSI-Camera"]
+	path = include/CSI-Camera
+	url = https://github.com/KittyEclipse/CSI-Camera
+	branch = master
