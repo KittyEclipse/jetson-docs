@@ -1,3 +1,5 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Overview](./index.md)
+- Workarounds
+	- [Booting the Latest Kernel](./workarounds/kernel.md)
