@@ -6,3 +6,4 @@ title = "Jetson Nano Docs for Kitty Eclipse"
 
 [output.html]
 git-repository-url = "https://github.com/KittyEclipse/jetson-docs/"
+edit-url-template = "https://github.com/KittyEclipse/jetson-docs/edit/main/{path}"
