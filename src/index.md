@@ -12,4 +12,4 @@ The Jetson Nano has two onboard ways to store data: the internal eMMC and a micr
 
 ## Pinout
 
-TODO: UPLOAD PINOUT CURRENTLY SAVED ON JETSON NANO
+![Jetson Nao Pinout](./assets/nano-pinout.png)
