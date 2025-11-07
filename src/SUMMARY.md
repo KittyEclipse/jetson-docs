@@ -3,6 +3,7 @@
 - [Overview](./index.md)
 - [Workarounds]()
 	- [Booting the Latest Kernel](./workarounds/kernel.md)
+	- [Fan Control](./workarounds/fan-control.md)
 - [Repository Documentation]()
 	- [ROS2 Cat Software Files](./repos/ros2.md)
 	- [Docker Jetson Experiments](./repos/experiments.md)
